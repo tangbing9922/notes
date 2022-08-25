@@ -21,7 +21,15 @@
 \# 将暂存区内容添加到仓库中。
 5. git push -u origin main
 
+# 创建仓库命令
+1.git init
+
+2.git clone
+
+## git init
+初始化仓库
 ## git clone
+拷贝一份远程仓库，也就是下载一个项目。
 远程操作的第一步，通常便是从远程主机克隆一个版本库，此时就需要用到 **git clone** 命令
 
 例如
