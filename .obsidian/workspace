@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "f8e4b1e6318e035d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca75d34e7e475c07",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d6f9a04ed9f4432",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcb5a2c741c2e1f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec62f9692391880c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "21db01e58b08b039",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ba4a07904e006e4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "137259babd35f599",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4748cf8749bd5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "090854ec0d4ff9d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a26b60ecd33a3a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb15f84f7127f713",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6649c83d2712b9ad",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aeaba92f35832bb6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ec62f9692391880c",
+  "lastOpenFiles": [
+    "shell.md",
+    "gitLearning.md",
+    "pycharm.md",
+    "README.md",
+    "好词好句.md",
+    "无线通信.pdf",
+    "DL笔记.md",
+    "2022-09-02.md",
+    "GitLearn.md",
+    "无线通信.md"
+  ]
+}

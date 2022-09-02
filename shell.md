@@ -76,3 +76,4 @@ $* 传递给脚本或函数的所有参数
 #！/bin/bash
 echo "File name:$0"
 ```
+
