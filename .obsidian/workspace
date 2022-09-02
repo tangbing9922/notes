@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ca75d34e7e475c07",
+        "id": "ea8b50bd1f54b6d9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "无线通信.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -68,11 +72,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "aeaba92f35832bb6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "无线通信.md"
+              }
+            }
+          },
+          {
             "id": "090854ec0d4ff9d7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "无线通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "无线通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,33 +128,24 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "aeaba92f35832bb6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ec62f9692391880c",
+  "active": "ea8b50bd1f54b6d9",
   "lastOpenFiles": [
+    "好词好句.md",
+    "无线通信.md",
     "shell.md",
     "gitLearning.md",
+    "DL笔记.md",
     "pycharm.md",
     "README.md",
-    "好词好句.md",
+    "Pasted image 20220902164149.png",
     "无线通信.pdf",
-    "DL笔记.md",
-    "2022-09-02.md",
-    "GitLearn.md",
-    "无线通信.md"
+    "2022-09-02.md"
   ]
 }

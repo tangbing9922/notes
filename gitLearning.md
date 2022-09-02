@@ -9,8 +9,7 @@ git 是目前世界上最先进的分布式版本控制系统。
 
 回顾之前使用Microsoft Word写长篇大论时，经常出现 想删除一个段落，
 又害怕将来想恢复找不回来怎么办？有办法，先把当前文件“另存为……”一个新的Word文件，再接着改，改到一定程度，再“另存为……”一个新文件，这样一直改下去，最后你的Word文档变成了这样：
-
-![fig1](./figure/word.jfif)
+![[figure/Pasted image 20220902164531.png]]
 
 过了一周，你想找回被删除的文字，但是已经记不清删除前保存在哪个文件里了，只好一个一个文件去找，真麻烦。
 
@@ -33,7 +32,7 @@ Linus 一直痛恨的CVS及SVN都是集中式的版本控制系统，而Git是�
 
 集中式版本控制系统，版本库是集中存放在中央服务器的，而干活的时候，用的都是自己的电脑，所以要先从中央服务器取得最新的版本，然后开始干活，干完活了，再把自己的活推送给中央服务器。中央服务器就好比是一个图书馆，你要改一本书，必须先从图书馆借出来，然后回到家自己改，改完了，再放回图书馆。
 
-![Git2](./figure/Git2.jfif)
+![[figure/Pasted image 20220902164552.png]]
 
 集中式版本控制系统最大的毛病就是必须 **联网才能工作**，如果在局域网内还好，带宽够大，速度够快，可如果在互联网上，遇到网速慢的话，可能提交一个10M的文件就需要5分钟!
 
@@ -59,6 +58,8 @@ Linus 一直痛恨的CVS及SVN都是集中式的版本控制系统，而Git是�
 
 # 创建仓库命令
 1.git init
+
+初始化git 仓库
 
 2.git clone
 
@@ -88,7 +89,7 @@ git clone <版本库的网址> <本地目录名>
 
 **git clone**支持多种协议，除了HTTPS以外，还支持SSH、Git、本地文件协议等，下面是一些例子
 
-```
+```shell
 $ git clone http[s]://example.com/path/to/repo.git/
 $ git clone ssh://example.com/path/to/repo.git/
 $ git clone git://example.com/path/to/repo.git/
@@ -106,7 +107,7 @@ $ git clone rsync://example.com/path/to/repo.git/
 
 使用**-v**选项可以查看远程主机的网址
 
-```
+```shell
 git remote -v
 克隆版本库的时候，所使用的远程主机自动被Git命名为**origin**。 
 
@@ -156,7 +157,7 @@ git fetch <远程主机名> <分支名>
 
 现在GitHub新版本改用main分支
 
-```
+```shell
 git branch -r
 origin/master
 git branch命令的-r选项，可以用来查看远程分支，-a选项查看所有分支
@@ -180,7 +181,7 @@ git pull 其实就是 git fetch 和 git merge FETCH_HEAD 的简写。
 推送 更新
 git push 命令用于从将本地的分支版本上传到远程并合并
 
-```
+```shell
 git push <远程主机名> <本地分支名>:<远程分支名>
 
 如果本地分支名与远程分支名相同，则可以省略冒号
