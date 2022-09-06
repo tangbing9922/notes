@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#将该目录下的文件添加到暂存区",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.5023193359375
   },
   "right": {
     "id": "137259babd35f599",
@@ -128,24 +128,34 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d01fdad489403119",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.5190124511719,
+    "collapsed": true
   },
   "active": "ea8b50bd1f54b6d9",
   "lastOpenFiles": [
-    "好词好句.md",
-    "无线通信.md",
-    "shell.md",
-    "gitLearning.md",
-    "DL笔记.md",
-    "pycharm.md",
     "README.md",
-    "Pasted image 20220902164149.png",
-    "无线通信.pdf",
-    "2022-09-02.md"
+    "pycharm.md",
+    "gitLearning.md",
+    "论文阅读笔记/channel coding/202_channel coding (LDPC) using DNN_A Review of Deep Learning in 5G Research：Channel Coding, Massive MIMO, Multiple Access, Resource Allocation, and Network Security.md",
+    "figure/Pasted image 20220902164811.png",
+    "好词好句.md",
+    "DL笔记.md",
+    "shell.md",
+    "无线通信.md",
+    "论文阅读笔记/未命名.md"
   ]
 }
