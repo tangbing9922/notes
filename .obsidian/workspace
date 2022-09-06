@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "f8e4b1e6318e035d",
+    "id": "3b3afba451568808",
     "type": "split",
     "children": [
       {
-        "id": "ea8b50bd1f54b6d9",
+        "id": "93213be01ee5c1da",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7d6f9a04ed9f4432",
+    "id": "5ffd27bed1a22d0e",
     "type": "split",
     "children": [
       {
-        "id": "bcb5a2c741c2e1f2",
+        "id": "8235338f1a49b2c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ec62f9692391880c",
+            "id": "ebfa0d518eb50703",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "21db01e58b08b039",
+            "id": "91ef0209d022a371",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#将该目录下的文件添加到暂存区",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "5ba4a07904e006e4",
+            "id": "014bbe2dea636bb2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,28 +61,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5023193359375
+    "width": 300
   },
   "right": {
-    "id": "137259babd35f599",
+    "id": "1e26702e7b547806",
     "type": "split",
     "children": [
       {
-        "id": "b4748cf8749bd5d3",
+        "id": "0bc7537e37ff9c96",
         "type": "tabs",
         "children": [
           {
-            "id": "aeaba92f35832bb6",
+            "id": "21c43ca8fe88e81e",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "无线通信.md"
-              }
+              "type": "calendar",
+              "state": {}
             }
           },
           {
-            "id": "090854ec0d4ff9d7",
+            "id": "f54a07bac74b337a",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -99,7 +97,7 @@
             }
           },
           {
-            "id": "6a26b60ecd33a3a7",
+            "id": "78c612b45c4ce99a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -111,7 +109,7 @@
             }
           },
           {
-            "id": "eb15f84f7127f713",
+            "id": "2ae4f2a5a0d3c57c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,40 +120,30 @@
             }
           },
           {
-            "id": "6649c83d2712b9ad",
+            "id": "f24ce4e307d2e9ee",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "无线通信.md"
+              }
             }
           },
           {
-            "id": "d01fdad489403119",
+            "id": "21038f9734099207",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 313.5190124511719,
+    "width": 300,
     "collapsed": true
   },
-  "active": "ea8b50bd1f54b6d9",
-  "lastOpenFiles": [
-    "README.md",
-    "pycharm.md",
-    "gitLearning.md",
-    "论文阅读笔记/channel coding/202_channel coding (LDPC) using DNN_A Review of Deep Learning in 5G Research：Channel Coding, Massive MIMO, Multiple Access, Resource Allocation, and Network Security.md",
-    "figure/Pasted image 20220902164811.png",
-    "好词好句.md",
-    "DL笔记.md",
-    "shell.md",
-    "无线通信.md",
-    "论文阅读笔记/未命名.md"
-  ]
+  "active": "93213be01ee5c1da",
+  "lastOpenFiles": []
 }
