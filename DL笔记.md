@@ -112,6 +112,9 @@ Multi-Fidelity:
 
 ![image-20220111111714660](C:\Users\bing\AppData\Roaming\Typora\typora-user-images\image-20220111111714660.png)
 
+## BN batch normalization原理学习
+[Batch Normalization（BN层）详解 - 简书 (jianshu.com)](https://www.jianshu.com/p/b05282e9ca57)
+
 # pytorch  learning
 
 ## pytorch计算图机制

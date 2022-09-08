@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "无线通信.md",
+            "file": "量化学习笔记.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "无线通信.md",
+                "file": "量化学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "无线通信.md",
+                "file": "量化学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "无线通信.md"
+                "file": "量化学习笔记.md"
               }
             }
           },
@@ -137,13 +137,19 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "93213be01ee5c1da",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "A：to Do list.md",
+    "好词好句.md",
+    "量化学习笔记.md",
+    "无线通信.md",
+    "DL笔记.md"
+  ]
 }
