@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "to Do list.md",
+=======
+            "file": "A：to Do list.md",
+>>>>>>> 1df3843c5e0a43477df145deba5d3ef45ab0ead2
             "mode": "source",
             "source": false
           }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "to Do list.md",
+=======
+                "file": "A：to Do list.md",
+>>>>>>> 1df3843c5e0a43477df145deba5d3ef45ab0ead2
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "to Do list.md",
+=======
+                "file": "A：to Do list.md",
+>>>>>>> 1df3843c5e0a43477df145deba5d3ef45ab0ead2
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "to Do list.md"
+=======
+                "file": "A：to Do list.md"
+>>>>>>> 1df3843c5e0a43477df145deba5d3ef45ab0ead2
               }
             }
           },
@@ -137,17 +153,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "93213be01ee5c1da",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "论文阅读笔记/2021_JSAC_A Lite Distributed Semantic Communication System for Internet of Things.md",
     "未命名.md",
     "无线通信.md"
+=======
+    "量化学习笔记.md",
+    "A：to Do list.md",
+    "好词好句.md",
+    "无线通信.md",
+    "DL笔记.md"
+>>>>>>> 1df3843c5e0a43477df145deba5d3ef45ab0ead2
   ]
 }
