@@ -1,5 +1,6 @@
 {
   "fileSortOrder": "byModifiedTime",
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "figure"
+  "attachmentFolderPath": "figure",
+  "promptDelete": false
 }
