@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "无线通信.md",
+            "file": "A：to Do list.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "无线通信.md",
+                "file": "A：to Do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "无线通信.md",
+                "file": "A：to Do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "无线通信.md"
+                "file": "A：to Do list.md"
               }
             }
           },
@@ -146,14 +146,15 @@
   },
   "active": "ec4cce4d0108c050",
   "lastOpenFiles": [
-    "A：to Do list.md",
-    "量化学习笔记.md",
+    "论文阅读笔记/2021_JSAC_A Lite Distributed Semantic Communication System for Internet of Things.md",
     "无线通信.md",
+    "DL笔记.md",
     "好词好句.md",
+    "量化学习笔记.md",
+    "A：to Do list.md",
     "无线通信.pdf",
     "pycharm.md",
     "shell.md",
-    "gitLearning.md",
-    "论文阅读笔记/2021_JSAC_A Lite Distributed Semantic Communication System for Internet of Things.md"
+    "gitLearning.md"
   ]
 }
