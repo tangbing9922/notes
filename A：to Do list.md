@@ -22,4 +22,16 @@
 - [ ] 打印设备标签
 
 ## 0908 
-- [ ] 什么是完美的CSI和不完美的CSI
+- [ ] 什么是完美的CSI和不完美的CSI？什么是发射端的CSI，接收端的CSI？
+- [x] 即解决什么叫发送端的SNR，接收端的SNR
+该问题其实是指发送端到基站的无线信道和基站到接收端的无线信道的状态不同
+
+## 0913
+- [ ] 联合信道编码和调制， 或者是基于神经网络的信道编码
+Joint Channel Coding and Modulation via Deep Learning
+"Turbo Autoencoder: Deep learning based channel code for point-to-point communication channels"-2019-NeurIPS
+
+检索关键词  channel coding modulation
+
+- [ ] 星座图设计的相关论文 
+- [ ] 总结往上数的两条， 本周需要读桌面的0913论文
