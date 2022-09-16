@@ -7,7 +7,7 @@
 下文的量化模块 可以参考， 有code
 [AI+无线通信——Top7 (Baseline)分享与总结](https://blog.csdn.net/jasneik/article/details/115834361)
 
-- [ ] 阅读 L-DeepSC 量化操作 
+- [x] 阅读 L-DeepSC 量化操作 
 [A Lite Distributed Semantic Communication System for Internet of Things | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9252948)
 
 - [ ] 无线通信的笔记本周整理完
@@ -19,7 +19,7 @@
 - [ ] 通信中的星座图的概念弄清， 看肖老师和lite deepsc 论文中的星座图的设计
 - [ ] DL笔记 添加 有关GAN 的概念
 - [ ] 研究一下xy老师的论文和分享视频，有点意思
-- [ ] 打印设备标签
+- [x] 打印设备标签
 
 ## 0908 
 - [ ] 什么是完美的CSI和不完美的CSI？什么是发射端的CSI，接收端的CSI？
@@ -33,5 +33,10 @@ Joint Channel Coding and Modulation via Deep Learning
 
 检索关键词  channel coding modulation
 
-- [ ] 星座图设计的相关论文 
-- [ ] 总结往上数的两条， 本周需要读桌面的0913论文
+- [ ] 星座图设计的相关论文 , 星座图设计是不是可以理解为调制设计
+- [ ] 总结往上数的两条， 本周需要读桌面的0913论文，DeepJSCC-Q 这个论文是joint source-channel coding + 量化 调制都有
+- [ ] matlab awgn 设定发射功率 学习
+
+## 0915
+- [ ] 弄清楚0914讨论的16QAM和64QAM同一Ebno下的性能差原因， Eb指的是信息比特的能量吗？
+- [ ] 开始弄清lite-DeepSC的代码和原理
