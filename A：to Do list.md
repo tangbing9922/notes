@@ -53,11 +53,11 @@ Joint Channel Coding and Modulation via Deep Learning
 [BinaryNet.pytorch/utils.py at b99870af6e73992896ab5db5ea26b83d2adb1201 · itayhubara/BinaryNet.pytorch (github.com)](https://github.com/itayhubara/BinaryNet.pytorch/blob/b99870af6e73992896ab5db5ea26b83d2adb1201/utils.py#L86)
 
 看看原论文里咋讲的
-- [ ] 增加系统复杂度的分析，
+- [x] 增加系统复杂度的分析，
 一篇WCNC领域联合主席的deepdl based IRS的论文里面的设定，也是功率归一化
 ![[figure/Pasted image 20220920153141.png]]
 
-- [ ] 借鉴DeepJSCC-Q 这个论文(这个团队的其他论文也要看)的一些表述，在是否转换成比特流和调制等等。
+- [x] 借鉴DeepJSCC-Q 这个论文(这个团队的其他论文也要看)的一些表述，在是否转换成比特流和调制等等。
 ![[figure/Pasted image 20220920153629.png]]
 下面这一段也很有意义：
 ![[figure/Pasted image 20220920153920.png]]
@@ -66,3 +66,33 @@ Joint Channel Coding and Modulation via Deep Learning
 Beyond Transmitting Bits: Context, Semantics, and Task-Oriented Communications
 这算是篇综述，再看看
 ![[figure/Pasted image 20220920155404.png]]
+
+
+有关语义保真度的定义：
+### [Have your text and use it too! end-to-end neural data-to-text generation with **semantic fidelity**](https://arxiv.org/abs/2004.06577)
+![[figure/Pasted image 20220920213513.png]]
+
+
+## 0921 
+- [ ] 什么是熵编码？
+熵编码是无损编码
+
+## 0922 
+- [ ] 分层调制 是什么概念 [IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=497113)
+
+
+## 0925
+
+- [x] 和老师讨论一下ICC-DeepJSCC-Q中的SNR那里的问题，他这发送和接收的SNR和信道的SNR，有三个加噪声的过程。
+
+## 0927
+- [x] 摘要有些要改的，参考0926还是25的自己的批注，还有contribution第二点有句话要改
+
+
+## 0929
+
+- [ ] 什么是扩散模型
+用于从文本到语音的扩散模型
+[yangdongchao/Text-to-sound-Synthesis: The source code of our paper "Diffsound: discrete diffusion model for text-to-sound generation" (github.com)](https://github.com/yangdongchao/Text-to-sound-Synthesis)
+
+- [ ] 什么是对比学习？

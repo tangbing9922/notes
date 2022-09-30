@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,9 @@
   },
   "active": "7ca4e8dd41ab2184",
   "lastOpenFiles": [
-    "好词好句.md",
-    "A：to Do list.md"
+    "pycharm.md",
+    "量化学习笔记.md",
+    "A：to Do list.md",
+    "好词好句.md"
   ]
 }
