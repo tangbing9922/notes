@@ -1,27 +1,15 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "b89d51efc4fe3f43",
+    "id": "74b4ee8995c056f9",
     "type": "split",
     "children": [
       {
-        "id": "938a7cc3553a026a",
-=======
-    "id": "eff945ce565fd71f",
-    "type": "split",
-    "children": [
-      {
-        "id": "ec4cce4d0108c050",
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+        "id": "a9e02b80b00ddfe3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "好词好句.md",
-=======
-            "file": "A：to Do list.md",
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+            "file": "学着摄像玩玩.md",
             "mode": "source",
             "source": false
           }
@@ -31,27 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "522a6dd5193f8ff2",
+    "id": "4d1fb5705bdfcfce",
     "type": "split",
     "children": [
       {
-        "id": "559def0c8e9dc97e",
+        "id": "5a973ce1a8c088df",
         "type": "tabs",
         "children": [
           {
-            "id": "e19d33ec92cb5b69",
-=======
-    "id": "34ca9391656409eb",
-    "type": "split",
-    "children": [
-      {
-        "id": "79e3fa788b3c2fd2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fd71e7a5056d1b9e",
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+            "id": "0266da0845c9696a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,11 +35,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "5efb911321857ac2",
-=======
-            "id": "445450c18c3b53df",
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+            "id": "33aca648a20927d0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,11 +50,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "6bd4ef9cb63c9513",
-=======
-            "id": "62df2600415343f3",
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+            "id": "6d61d416e64b3331",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -96,27 +64,15 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "c7984c5ccb551106",
+    "id": "fa5fee64eba9848f",
     "type": "split",
     "children": [
       {
-        "id": "f0a2df7e1728c3eb",
+        "id": "524675a384f1fe0d",
         "type": "tabs",
         "children": [
           {
-            "id": "67c0829348eee80d",
-=======
-    "id": "f4cddd49bdb241b6",
-    "type": "split",
-    "children": [
-      {
-        "id": "a1728e04fcc1f5e1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7f659fa8335aa5f3",
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+            "id": "121200be19d96caa",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -124,20 +80,12 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "a6b9257f3c689f68",
-=======
-            "id": "4fe0895f760a429f",
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+            "id": "89677a9f439d1ef4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "好词好句.md",
-=======
-                "file": "A：to Do list.md",
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+                "file": "学着摄像玩玩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,31 +97,19 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "c72250da696e22fc",
-=======
-            "id": "d6f426125470032e",
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+            "id": "c8e849adc05635cf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "好词好句.md",
-=======
-                "file": "A：to Do list.md",
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+                "file": "学着摄像玩玩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "a385c03cbe357a33",
-=======
-            "id": "5a9960a89fb729b2",
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+            "id": "097c24a95b827336",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -184,29 +120,17 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "5c503eed28358ced",
-=======
-            "id": "48709df39c358104",
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+            "id": "145ddc7fd11f6de2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "好词好句.md"
-=======
-                "file": "A：to Do list.md"
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+                "file": "学着摄像玩玩.md"
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "86557b017ed9c4b2",
-=======
-            "id": "567a745dc78b0bcb",
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
+            "id": "7979b116b1de159d",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -220,28 +144,6 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "938a7cc3553a026a",
-  "lastOpenFiles": [
-    "A：to Do list.md",
-    "gitLearning.md",
-    "README.md",
-    "shell.md",
-    "量化学习笔记.md",
-    "DL笔记.md"
-=======
-  "active": "ec4cce4d0108c050",
-  "lastOpenFiles": [
-    "论文阅读笔记/2021_JSAC_A Lite Distributed Semantic Communication System for Internet of Things.md",
-    "无线通信.md",
-    "DL笔记.md",
-    "好词好句.md",
-    "量化学习笔记.md",
-    "A：to Do list.md",
-    "无线通信.pdf",
-    "pycharm.md",
-    "shell.md",
-    "gitLearning.md"
->>>>>>> baaea496877cef1f3f0ea3ef3146da4dd12b33da
-  ]
+  "active": "a9e02b80b00ddfe3",
+  "lastOpenFiles": []
 }
