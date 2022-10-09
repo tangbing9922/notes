@@ -7,7 +7,7 @@
 下文的量化模块 可以参考， 有code
 [AI+无线通信——Top7 (Baseline)分享与总结](https://blog.csdn.net/jasneik/article/details/115834361)
 
-- [ ] 阅读 L-DeepSC 量化操作 
+- [x] 阅读 L-DeepSC 量化操作 
 [A Lite Distributed Semantic Communication System for Internet of Things | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9252948)
 
 - [ ] 无线通信的笔记本周整理完
@@ -19,7 +19,7 @@
 - [ ] 通信中的星座图的概念弄清， 看肖老师和lite deepsc 论文中的星座图的设计
 - [ ] DL笔记 添加 有关GAN 的概念
 - [ ] 研究一下xy老师的论文和分享视频，有点意思
-- [ ] 打印设备标签
+- [x] 打印设备标签
 
 ## 0908 
 - [ ] 什么是完美的CSI和不完美的CSI？什么是发射端的CSI，接收端的CSI？
@@ -33,5 +33,66 @@ Joint Channel Coding and Modulation via Deep Learning
 
 检索关键词  channel coding modulation
 
-- [ ] 星座图设计的相关论文 
-- [ ] 总结往上数的两条， 本周需要读桌面的0913论文
+- [ ] 星座图设计的相关论文 , 星座图设计是不是可以理解为调制设计
+- [ ] 总结往上数的两条， 本周需要读桌面的0913论文，DeepJSCC-Q 这个论文是joint source-channel coding + 量化 调制都有
+- [ ] matlab awgn 设定发射功率 学习
+
+## 0915
+- [ ] 弄清楚0914讨论的16QAM和64QAM同一Ebno下的性能差原因， Eb指的是信息比特的能量吗？
+- [ ] 开始弄清lite-DeepSC的代码和原理
+感觉他这复信号的代码可以参考一下，量化的东西太杂了看着
+
+## 0919
+- [ ] Constellation Design for Deep Joint Source-Channel Coding 本文采用的量化去进行星座图设计，其代码来源Conditional Probability Models for Deep Image Compression(CVPR2018)
+可以建议尹义然看一些图像压缩相关的文章，里面都涉及到量化操作，也就可以看作是星座图设计。
+- [ ] 论文修改：1.语言精简且前后摘要结论中不要过多句式重复的句子 2. 增加power限定，修改噪声的表述0均值，以及设定不同的方差是为了增强模型对不同信道的鲁棒性。
+![[figure/Pasted image 20220919174301.png]]
+
+## 0920
+- [ ] lite-deepsc中averagemeter的代码和概念在BNN中首先提出[Binarized Neural Networks (nips.cc)](https://papers.nips.cc/paper/2016/file/d8330f857a17c53d217014ee776bfd50-Paper.pdf)
+[BinaryNet.pytorch/utils.py at b99870af6e73992896ab5db5ea26b83d2adb1201 · itayhubara/BinaryNet.pytorch (github.com)](https://github.com/itayhubara/BinaryNet.pytorch/blob/b99870af6e73992896ab5db5ea26b83d2adb1201/utils.py#L86)
+
+看看原论文里咋讲的
+- [x] 增加系统复杂度的分析，
+一篇WCNC领域联合主席的deepdl based IRS的论文里面的设定，也是功率归一化
+![[figure/Pasted image 20220920153141.png]]
+
+- [x] 借鉴DeepJSCC-Q 这个论文(这个团队的其他论文也要看)的一些表述，在是否转换成比特流和调制等等。
+![[figure/Pasted image 20220920153629.png]]
+下面这一段也很有意义：
+![[figure/Pasted image 20220920153920.png]]
+
+5个Fellow的论文...
+Beyond Transmitting Bits: Context, Semantics, and Task-Oriented Communications
+这算是篇综述，再看看
+![[figure/Pasted image 20220920155404.png]]
+
+
+有关语义保真度的定义：
+### [Have your text and use it too! end-to-end neural data-to-text generation with **semantic fidelity**](https://arxiv.org/abs/2004.06577)
+![[figure/Pasted image 20220920213513.png]]
+
+
+## 0921 
+- [ ] 什么是熵编码？
+熵编码是无损编码
+
+## 0922 
+- [ ] 分层调制 是什么概念 [IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=497113)
+
+
+## 0925
+
+- [x] 和老师讨论一下ICC-DeepJSCC-Q中的SNR那里的问题，他这发送和接收的SNR和信道的SNR，有三个加噪声的过程。
+
+## 0927
+- [x] 摘要有些要改的，参考0926还是25的自己的批注，还有contribution第二点有句话要改
+
+
+## 0929
+
+- [ ] 什么是扩散模型
+用于从文本到语音的扩散模型
+[yangdongchao/Text-to-sound-Synthesis: The source code of our paper "Diffsound: discrete diffusion model for text-to-sound generation" (github.com)](https://github.com/yangdongchao/Text-to-sound-Synthesis)
+
+- [ ] 什么是对比学习？
