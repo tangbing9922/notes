@@ -12,3 +12,8 @@ CTRL + /        单行注释
 
 ''' '''         块注释 
 CTRL + Alt +L  自动排版对齐
+
+## Linux 快捷键
+
+复制文件 cp file_a file_b
+ 命令行中回到行首 行尾 ctrl + a (ahead)/ e(end)
