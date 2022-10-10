@@ -1,31 +1,15 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "74b4ee8995c056f9",
+    "id": "e28f1e99dc1c56e0",
     "type": "split",
     "children": [
       {
-        "id": "a9e02b80b00ddfe3",
-=======
-    "id": "053249e50e0e4124",
-    "type": "split",
-    "children": [
-      {
-        "id": "7ca4e8dd41ab2184",
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
+        "id": "b364faae26b4032a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "量化学习笔记.md",
-=======
-<<<<<<< HEAD
-            "file": "学着摄像玩玩.md",
-=======
             "file": "A：to Do list.md",
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
->>>>>>> 1166652f34c90384eff7bd37a7fed2e9cbb010f8
             "mode": "source",
             "source": false
           }
@@ -35,27 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "4d1fb5705bdfcfce",
+    "id": "2b0cd26b82f881b2",
     "type": "split",
     "children": [
       {
-        "id": "5a973ce1a8c088df",
+        "id": "d1c886c6e7547c0e",
         "type": "tabs",
         "children": [
           {
-            "id": "0266da0845c9696a",
-=======
-    "id": "4b213c0d602ba194",
-    "type": "split",
-    "children": [
-      {
-        "id": "c60eb6aee16fdffb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3f1f9cf285d9a595",
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
+            "id": "a5b0dd7a18bdbffd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,11 +35,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "33aca648a20927d0",
-=======
-            "id": "89601c8f49815241",
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
+            "id": "addc9b7340edad17",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,11 +50,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "6d61d416e64b3331",
-=======
-            "id": "53810c1d01f49be7",
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
+            "id": "c0d348225bc289ce",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -100,27 +64,15 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "fa5fee64eba9848f",
+    "id": "6509292c0fd76da9",
     "type": "split",
     "children": [
       {
-        "id": "524675a384f1fe0d",
+        "id": "7f3fcb55908de3b1",
         "type": "tabs",
         "children": [
           {
-            "id": "121200be19d96caa",
-=======
-    "id": "a1a4daa90ac0282a",
-    "type": "split",
-    "children": [
-      {
-        "id": "de1de81e35462d5b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "77b9eca01b54a79c",
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
+            "id": "204b833fe4e8501b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -128,24 +80,12 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "89677a9f439d1ef4",
-=======
-            "id": "ebc85be93635f65b",
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
+            "id": "8fad138cc2e5de29",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "量化学习笔记.md",
-=======
-<<<<<<< HEAD
-                "file": "学着摄像玩玩.md",
-=======
                 "file": "A：to Do list.md",
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
->>>>>>> 1166652f34c90384eff7bd37a7fed2e9cbb010f8
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,35 +97,19 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "c8e849adc05635cf",
-=======
-            "id": "d77113d322e9d952",
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
+            "id": "c6ca0a1fb208d4c7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "量化学习笔记.md",
-=======
-<<<<<<< HEAD
-                "file": "学着摄像玩玩.md",
-=======
                 "file": "A：to Do list.md",
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
->>>>>>> 1166652f34c90384eff7bd37a7fed2e9cbb010f8
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "097c24a95b827336",
-=======
-            "id": "132e54e1127ce9af",
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
+            "id": "541333f90ad42d99",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -196,57 +120,34 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "145ddc7fd11f6de2",
-=======
-            "id": "bdfda0b814800e6c",
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
+            "id": "0ec24d4dec2a33dc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "量化学习笔记.md"
-=======
-<<<<<<< HEAD
-                "file": "学着摄像玩玩.md"
-=======
                 "file": "A：to Do list.md"
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
->>>>>>> 1166652f34c90384eff7bd37a7fed2e9cbb010f8
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "7979b116b1de159d",
-=======
-            "id": "8997c921ce8035f3",
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
+            "id": "5a4181397cf8a7c4",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "a9e02b80b00ddfe3",
-  "lastOpenFiles": []
-=======
-  "active": "7ca4e8dd41ab2184",
+  "active": "b364faae26b4032a",
   "lastOpenFiles": [
     "pycharm.md",
-    "量化学习笔记.md",
-    "A：to Do list.md",
-    "好词好句.md"
+    "gitLearning.md",
+    "A：to Do list.md"
   ]
->>>>>>> 2e061a769931fb12af249f0befdcf46cc44f79ec
 }

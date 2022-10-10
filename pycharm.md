@@ -13,6 +13,8 @@ CTRL + /        单行注释
 ''' '''         块注释 
 CTRL + Alt +L  自动排版对齐
 
+CTRL + Shift + F 全局搜索
+
 ## Linux 快捷键
 
 复制文件 cp file_a file_b

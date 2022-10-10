@@ -49,7 +49,7 @@ Joint Channel Coding and Modulation via Deep Learning
 ![[figure/Pasted image 20220919174301.png]]
 
 ## 0920
-- [ ] lite-deepsc中averagemeter的代码和概念在BNN中首先提出[Binarized Neural Networks (nips.cc)](https://papers.nips.cc/paper/2016/file/d8330f857a17c53d217014ee776bfd50-Paper.pdf)
+- [x] lite-deepsc中averagemeter的代码和概念在BNN中首先提出[Binarized Neural Networks (nips.cc)](https://papers.nips.cc/paper/2016/file/d8330f857a17c53d217014ee776bfd50-Paper.pdf)
 [BinaryNet.pytorch/utils.py at b99870af6e73992896ab5db5ea26b83d2adb1201 · itayhubara/BinaryNet.pytorch (github.com)](https://github.com/itayhubara/BinaryNet.pytorch/blob/b99870af6e73992896ab5db5ea26b83d2adb1201/utils.py#L86)
 
 看看原论文里咋讲的
@@ -96,3 +96,9 @@ Beyond Transmitting Bits: Context, Semantics, and Task-Oriented Communications
 [yangdongchao/Text-to-sound-Synthesis: The source code of our paper "Diffsound: discrete diffusion model for text-to-sound generation" (github.com)](https://github.com/yangdongchao/Text-to-sound-Synthesis)
 
 - [ ] 什么是对比学习？
+
+
+## 1010
+ - [ ]  将超参数单独写在一个class中，由于原始的deepsc的maxlength会变成31 ，这在后面做VQVAE的时候对超参数的选择不利，reshape的时候出现非整数，所以重新训练一个max_length = 32的DeepSC
+ - [ ] 周四之前比较linear_quanti和VQ-VAE的性能，比较传统分离方法、无量化方法、有量化方法的性能，让尹义然尝试deep+传统的方式
+ - [ ] 准备开题的东西，在周四周五之前备好材料和一些模糊的问题。
