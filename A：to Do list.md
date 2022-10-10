@@ -102,3 +102,6 @@ Beyond Transmitting Bits: Context, Semantics, and Task-Oriented Communications
  - [ ]  将超参数单独写在一个class中，由于原始的deepsc的maxlength会变成31 ，这在后面做VQVAE的时候对超参数的选择不利，reshape的时候出现非整数，所以重新训练一个max_length = 32的DeepSC
  - [ ] 周四之前比较linear_quanti和VQ-VAE的性能，比较传统分离方法、无量化方法、有量化方法的性能，让尹义然尝试deep+传统的方式
  - [ ] 准备开题的东西，在周四周五之前备好材料和一些模糊的问题。
+ - [ ] 看肖老师的主页视频和相关论文
+
+  vae [变分自编码器（一）：原来是这么一回事 - 科学空间|Scientific Spaces (kexue.fm)](https://kexue.fm/archives/5253)
