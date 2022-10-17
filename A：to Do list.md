@@ -105,3 +105,6 @@ Beyond Transmitting Bits: Context, Semantics, and Task-Oriented Communications
  - [ ] 看肖老师的主页视频和相关论文
 
   vae [变分自编码器（一）：原来是这么一回事 - 科学空间|Scientific Spaces (kexue.fm)](https://kexue.fm/archives/5253)
+
+## 1011
+- [ ] 了解什么是联邦学习
