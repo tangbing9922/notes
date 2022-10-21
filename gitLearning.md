@@ -57,12 +57,24 @@ Linus 一直痛恨的CVS及SVN都是集中式的版本控制系统，而Git是�
 \# 将暂存区内容添加到仓库中。
 5. git push -u origin main
 
+# 将本地git项目与github 仓库关联起来
+
+```shell
+1.首先在github 上创建仓库(或者已有仓库)
+注：创建仓库时先不要勾选add a readme file、.gitonre 、license
+2.在本地仓库中 git init 初始化git 仓库
+3.打开之前在github上创建的仓库，单击SSH按钮，复制该链接
+4.使用git remote add 别名 “链接地址”
+注：别名一般叫origin
+5.输入git remote -vv 可以查看添加的仓库信息
+6.如果没有配置SSH密钥对，还需在git bash 中生成密钥对：ssh -keygen -c "comment"
+"comment" 内容为备注，即对密钥对的备注信息，可不写
+
+```
+
 # 创建仓库命令
-1.git init
 
-初始化git 仓库
-
-2.git clone
+## 常见指令
 
 ## git init
 初始化仓库
