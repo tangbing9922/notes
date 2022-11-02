@@ -541,6 +541,16 @@ class CNN(nn.Module):
 
 就是在内存中定一个常量，同时，模型保存和加载的时候可以写入和读出，一般情况下PyTorch将网络中的参数保存成orderedDict形式，参数包含两种，一种是模型中各种module含的参数，即nn.Parameter，当然可以在网络中定义其他的nn.Parameter参数，另一种就是buffer，前者每次optim.step会得到更新，而后者不会更新。
 
+## 使用torch.tensor或torch.Tensor创建张量
+
+```python
+import torch
+import torch.nn
+import numpy as np
+
+a = torch.tensor([1,3,5,7,9])
+b = torch.Tensor([1,3,5,7,9])
+```
 
 ## python相关知识
 
@@ -560,3 +570,6 @@ class CNN(nn.module):
 ```
 
 ## 什么是对比学习 contrastive learning 
+
+
+

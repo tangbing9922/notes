@@ -68,7 +68,9 @@ Linus 一直痛恨的CVS及SVN都是集中式的版本控制系统，而Git是�
 注：别名一般叫origin
 5.输入git remote -vv 可以查看添加的仓库信息
 6.如果没有配置SSH密钥对，还需在git bash 中生成密钥对：ssh -keygen -c "comment"
-"comment" 内容为备注，即对密钥对的备注信息，可不写
+"comment" 内容为备注，即对密钥对的备注信息，可不写。
+	然后去github上配置公钥。
+7.配置完成，可以进行推送提交等指令
 
 ```
 
@@ -84,7 +86,6 @@ Linus 一直痛恨的CVS及SVN都是集中式的版本控制系统，而Git是�
 
 例如
 
-`
 git clone <版本库的网址>
 `
 
