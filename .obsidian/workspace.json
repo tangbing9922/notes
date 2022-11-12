@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ecdc5944a5722d92",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "学着摄像玩玩.md",
-            "mode": "source",
-            "source": false
+        "id": "9ed54166d11bd626",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecdc5944a5722d92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学着摄像玩玩.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "298acf610e0a0875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学着摄像玩玩.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +50,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
             }
           },
           {
@@ -144,8 +165,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ecdc5944a5722d92",
+  "active": "298acf610e0a0875",
   "lastOpenFiles": [
+    "无线通信.md",
+    "gitLearning.md",
+    "README.md",
     "好词好句.md",
     "量化学习笔记.md"
   ]
