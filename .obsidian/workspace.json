@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "2d5a4466e6244cfe",
     "type": "split",
     "children": [
@@ -9,18 +10,49 @@
         "children": [
           {
             "id": "ecdc5944a5722d92",
+=======
+    "id": "e28f1e99dc1c56e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab8d77e59fa196e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b364faae26b4032a",
+>>>>>>> fcb349de833b194c375b5364611a934668079568
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "学着摄像玩玩.md",
+=======
+                "file": "A：to Do list.md",
+>>>>>>> fcb349de833b194c375b5364611a934668079568
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "298acf610e0a0875",
+=======
+            "id": "6d0c284e50dd6a14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DL笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75328530c2b2c13a",
+>>>>>>> fcb349de833b194c375b5364611a934668079568
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +64,17 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 1
+=======
+        "currentTab": 2
+>>>>>>> fcb349de833b194c375b5364611a934668079568
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "a79006e5254a211c",
     "type": "split",
     "children": [
@@ -47,6 +84,17 @@
         "children": [
           {
             "id": "daca7bffcc95661e",
+=======
+    "id": "2b0cd26b82f881b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1c886c6e7547c0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b0dd7a18bdbffd",
+>>>>>>> fcb349de833b194c375b5364611a934668079568
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +104,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "45771eb1f60e28de",
+=======
+            "id": "addc9b7340edad17",
+>>>>>>> fcb349de833b194c375b5364611a934668079568
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +123,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "e43cb27ee1e5e7c3",
+=======
+            "id": "c0d348225bc289ce",
+>>>>>>> fcb349de833b194c375b5364611a934668079568
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -85,6 +141,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "b3df791118da17df",
     "type": "split",
     "children": [
@@ -94,6 +151,17 @@
         "children": [
           {
             "id": "6f638d563ab798a0",
+=======
+    "id": "6509292c0fd76da9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f3fcb55908de3b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "204b833fe4e8501b",
+>>>>>>> fcb349de833b194c375b5364611a934668079568
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -101,7 +169,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "841e2ee93bf585e8",
+=======
+            "id": "8fad138cc2e5de29",
+>>>>>>> fcb349de833b194c375b5364611a934668079568
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -118,7 +190,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "d36b3254844cf6f4",
+=======
+            "id": "c6ca0a1fb208d4c7",
+>>>>>>> fcb349de833b194c375b5364611a934668079568
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -130,7 +206,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "9588322233db6f16",
+=======
+            "id": "541333f90ad42d99",
+>>>>>>> fcb349de833b194c375b5364611a934668079568
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,7 +221,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "bc0308eb7578f149",
+=======
+            "id": "0ec24d4dec2a33dc",
+>>>>>>> fcb349de833b194c375b5364611a934668079568
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -151,7 +235,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "8c5de7028a7e9247",
+=======
+            "id": "5a4181397cf8a7c4",
+>>>>>>> fcb349de833b194c375b5364611a934668079568
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -162,6 +250,7 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300,
     "collapsed": true
   },
@@ -172,5 +261,21 @@
     "README.md",
     "好词好句.md",
     "量化学习笔记.md"
+=======
+    "width": 300
+  },
+  "active": "75328530c2b2c13a",
+  "lastOpenFiles": [
+    "好词好句.md",
+    "shell.md",
+    "量化学习笔记.md",
+    "学着摄像玩玩.md",
+    "无线通信.md",
+    "无线通信.pdf",
+    "gitLearning.md",
+    "A：to Do list.md",
+    "pycharm.md",
+    "论文阅读笔记/channel coding/202_channel coding (LDPC) using DNN_A Review of Deep Learning in 5G Research：Channel Coding, Massive MIMO, Multiple Access, Resource Allocation, and Network Security.md"
+>>>>>>> fcb349de833b194c375b5364611a934668079568
   ]
 }
