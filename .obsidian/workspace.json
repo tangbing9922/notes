@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DL笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75328530c2b2c13a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "学着摄像玩玩.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,23 +158,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "75328530c2b2c13a",
+  "active": "6d0c284e50dd6a14",
   "lastOpenFiles": [
+    "Exploiting Semantic Communication for Non-Orthogonal Multiple Access.md",
+    "A：to Do list.md",
     "好词好句.md",
+    "DL笔记.md",
+    "学术/1 附件/Pasted image 20221027100332.png.md",
+    "学着摄像玩玩.md",
     "shell.md",
     "量化学习笔记.md",
-    "学着摄像玩玩.md",
     "无线通信.md",
-    "无线通信.pdf",
-    "gitLearning.md",
-    "A：to Do list.md",
-    "pycharm.md",
-    "论文阅读笔记/channel coding/202_channel coding (LDPC) using DNN_A Review of Deep Learning in 5G Research：Channel Coding, Massive MIMO, Multiple Access, Resource Allocation, and Network Security.md"
+    "无线通信.pdf"
   ]
 }

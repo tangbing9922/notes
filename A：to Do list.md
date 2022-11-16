@@ -108,3 +108,43 @@ Beyond Transmitting Bits: Context, Semantics, and Task-Oriented Communications
 
 ## 1011
 - [ ] 了解什么是联邦学习
+
+
+## 1102
+- [ ] 本周论文：
+阅读 一些画了upper bound 的论文：
+如：202209_arxiv_Vector Quantized Semantic Communication System
+
+
+## 1108
+别人的功率功率归一化
+[OFDM-guided-JSCC/channel.py at main · mingyuyng/OFDM-guided-JSCC (github.com)](https://github.com/mingyuyng/OFDM-guided-JSCC/blob/main/models/channel.py)
+def Normalize(x, pwr=1):
+
+'''
+
+Normalization function
+
+'''
+
+power = torch.mean(x ** 2, (-2,-1), True)
+
+alpha = np.sqrt(pwr/2)/torch.sqrt(power)
+
+return alpha * x
+因为OFDM两个信道所以根号下pwr/2？
+
+
+关于h
+h = tf.complex(
+
+tf.random.normal([tf.shape(x)[0], 1], 0, 1 / np.sqrt(2)),
+
+tf.random.normal([tf.shape(x)[0], 1], 0, 1 / np.sqrt(2)),
+
+)
+[ADJSCC/util_channel.py at e5332e95faf592aab9f440992de96029162dc7dd · alexxu1988/ADJSCC (github.com)](https://github.com/alexxu1988/ADJSCC/blob/e5332e95faf592aab9f440992de96029162dc7dd/util_channel.py#L51)
+![[figure/Pasted image 20221108210124.png]]
+
+1107之后是改了路损的训练结果
+
