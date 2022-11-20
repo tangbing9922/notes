@@ -2,5 +2,9 @@
   "theme": "obsidian",
   "translucency": true,
   "accentColor": "",
+<<<<<<< HEAD
   "baseFontSize": 13
+=======
+  "baseFontSize": 19
+>>>>>>> 02ebd2b50777a5821adaf432b7a81a44f1e0bd89
 }
