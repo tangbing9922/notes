@@ -1,73 +1,60 @@
 {
   "main": {
-    "id": "2d5a4466e6244cfe",
+    "id": "8ad5f91782633a23",
     "type": "split",
     "children": [
       {
-        "id": "9ed54166d11bd626",
+        "id": "92001312e94b3ce5",
         "type": "tabs",
         "children": [
           {
-            "id": "298acf610e0a0875",
-<<<<<<< HEAD
-=======
-=======
-            "id": "6d0c284e50dd6a14",
+            "id": "b7302bf09d7970ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "DL笔记.md",
+                "file": "学着摄像玩玩.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "75328530c2b2c13a",
->>>>>>> fcb349de833b194c375b5364611a934668079568
->>>>>>> 02ebd2b50777a5821adaf432b7a81a44f1e0bd89
+            "id": "6eb909a22e322dbb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e56c7a9a19c2dda7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
->>>>>>> b2eb3ef2905656011f534d56461da05603aaec06
-                "file": "学着摄像玩玩.md",
+                "file": "gitar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-<<<<<<< HEAD
-        ]
-=======
         ],
-<<<<<<< HEAD
-        "currentTab": 1
-=======
-<<<<<<< HEAD
-        "currentTab": 1
-=======
         "currentTab": 2
->>>>>>> fcb349de833b194c375b5364611a934668079568
->>>>>>> b2eb3ef2905656011f534d56461da05603aaec06
->>>>>>> 02ebd2b50777a5821adaf432b7a81a44f1e0bd89
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a79006e5254a211c",
+    "id": "4849acab9124c04e",
     "type": "split",
     "children": [
       {
-        "id": "a63b00c32d5b0cf8",
+        "id": "d745f79a97d2a14f",
         "type": "tabs",
         "children": [
           {
-            "id": "daca7bffcc95661e",
+            "id": "fce83cefba19078a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,13 +64,13 @@
             }
           },
           {
-            "id": "45771eb1f60e28de",
+            "id": "b06f8ff0bd7581de",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#基础知识",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -92,7 +79,7 @@
             }
           },
           {
-            "id": "e43cb27ee1e5e7c3",
+            "id": "3a84804d947614ae",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -103,19 +90,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
-    "id": "b3df791118da17df",
+    "id": "892066a49a3f2d18",
     "type": "split",
     "children": [
       {
-        "id": "4b9bb1ebe883a3e8",
+        "id": "8042bcfbd36f5cfc",
         "type": "tabs",
         "children": [
           {
-            "id": "6f638d563ab798a0",
+            "id": "1a1e2276639d99a5",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -123,12 +109,12 @@
             }
           },
           {
-            "id": "841e2ee93bf585e8",
+            "id": "a2458344b52667a5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学着摄像玩玩.md",
+                "file": "gitar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,19 +126,19 @@
             }
           },
           {
-            "id": "d36b3254844cf6f4",
+            "id": "34ab364f6a0f2522",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学着摄像玩玩.md",
+                "file": "gitar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9588322233db6f16",
+            "id": "6dc3259fa44fa494",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,17 +149,17 @@
             }
           },
           {
-            "id": "bc0308eb7578f149",
+            "id": "6c024383b3fe780f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "学着摄像玩玩.md"
+                "file": "gitar.md"
               }
             }
           },
           {
-            "id": "8c5de7028a7e9247",
+            "id": "2806163c42cf39fd",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -185,42 +171,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
-  },
-  "active": "298acf610e0a0875",
-  "lastOpenFiles": [
-    "无线通信.md",
-    "gitLearning.md",
-    "README.md",
-    "好词好句.md",
-    "量化学习笔记.md"
-<<<<<<< HEAD
-=======
-=======
     "width": 300
   },
-  "active": "6d0c284e50dd6a14",
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "privacy-glasses:Toggle Privacy Glasses": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e56c7a9a19c2dda7",
   "lastOpenFiles": [
-    "Exploiting Semantic Communication for Non-Orthogonal Multiple Access.md",
-    "A：to Do list.md",
+    "figure/Pasted image 20230406212515.png",
+    "figure/Pasted image 20230406212451.png",
+    "gitar.md",
+    "2023-04-06.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
     "好词好句.md",
-    "DL笔记.md",
-    "学术/1 附件/Pasted image 20221027100332.png.md",
-    "学着摄像玩玩.md",
-    "shell.md",
-    "量化学习笔记.md",
-    "无线通信.md",
-<<<<<<< HEAD
-    "无线通信.pdf"
-=======
-    "无线通信.pdf",
-    "gitLearning.md",
-    "A：to Do list.md",
-    "pycharm.md",
-    "论文阅读笔记/channel coding/202_channel coding (LDPC) using DNN_A Review of Deep Learning in 5G Research：Channel Coding, Massive MIMO, Multiple Access, Resource Allocation, and Network Security.md"
->>>>>>> fcb349de833b194c375b5364611a934668079568
->>>>>>> b2eb3ef2905656011f534d56461da05603aaec06
->>>>>>> 02ebd2b50777a5821adaf432b7a81a44f1e0bd89
+    "学着摄像玩玩.md"
   ]
 }
