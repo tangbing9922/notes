@@ -148,3 +148,19 @@ tf.random.normal([tf.shape(x)[0], 1], 0, 1 / np.sqrt(2)),
 
 1107之后是改了路损的训练结果
 
+
+## 1121
+- [ ] 
+JSAC的论文代码非线性变换那篇。
+[wsxtyrdd/NTSCC_JSAC22 (github.com)](https://github.com/wsxtyrdd/NTSCC_JSAC22)
+
+## 1128
+
+- [ ]  把 瑞利信道 的 SRD 和SD  模型 以及 融合的模型重新训练一下，之前的channel 有问题
+- [ ]  把 有AF 模块的模型进行训练
+效果不太好
+
+## 1205
+
+- [ ] 这周一周二至少把量化的模块加入，然后 把 AF模块 重新弄一下，实在不行就改改
+
