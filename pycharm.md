@@ -15,7 +15,10 @@ CTRL + Alt +L  自动排版对齐
 
 CTRL + Shift + F 全局搜索
 
+CTRL + Alt + 左方向键  跳转到光标上一次所在的位置
+
 ## Linux 快捷键
 
 复制文件 cp file_a file_b
  命令行中回到行首 行尾 ctrl + a (ahead)/ e(end)
+ 
