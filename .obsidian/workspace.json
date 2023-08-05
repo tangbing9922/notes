@@ -59,11 +59,29 @@
             "id": "1851a7a602aa02b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "gitLearning.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "2e0b61a0d9e99d77",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -80,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gitLearning.md",
+                "file": "未命名 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gitLearning.md",
+                "file": "未命名 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gitLearning.md"
+                "file": "未命名 1.canvas"
               }
             }
           },
@@ -232,8 +250,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1851a7a602aa02b8",
+  "active": "2e0b61a0d9e99d77",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "gitLearning.md",
+    "gitar.md",
+    "figure/Pasted image 20230406212515.png",
+    "figure/Pasted image 20230406212451.png",
+    "2023-04-06.md",
     "DL笔记.md",
     "shell.md",
     "Gitar笔记.md",
