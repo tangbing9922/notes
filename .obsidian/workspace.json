@@ -1,137 +1,100 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "e28f1e99dc1c56e0",
+    "id": "e5c9018095020d64",
     "type": "split",
     "children": [
       {
-        "id": "ab8d77e59fa196e1",
+        "id": "e4bf7dbee32419ee",
         "type": "tabs",
         "children": [
           {
-            "id": "b364faae26b4032a",
+            "id": "6ac60f37bcd63bb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A：to Do list.md",
+                "file": "现代编码理论.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-=======
-    "id": "2d5a4466e6244cfe",
-    "type": "split",
-    "children": [
-      {
-        "id": "9ed54166d11bd626",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "298acf610e0a0875",
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
-            "id": "6d0c284e50dd6a14",
+            "id": "09270a5166c06d02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "无线通信.md",
+                "file": "学着摄像玩玩.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d058c17cfc9c88c",
+            "id": "94741b0fdbd9ee8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "期刊论文 问题总结.md",
+                "file": "好词好句.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "c990e5741fd0644b",
-=======
-            "id": "75328530c2b2c13a",
->>>>>>> fcb349de833b194c375b5364611a934668079568
->>>>>>> 02ebd2b50777a5821adaf432b7a81a44f1e0bd89
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
+            "id": "de3d01eaadb3b912",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shell.md",
+                "file": "gitLearning.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e84e449f867e9c61",
+            "id": "1851a7a602aa02b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gitar笔记.md",
+                "file": "gitLearning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "498b25c2fccbc093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "产品经理笔记.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-<<<<<<< HEAD
-        ]
-=======
         ],
-<<<<<<< HEAD
         "currentTab": 4
-=======
-<<<<<<< HEAD
-        "currentTab": 1
-=======
-<<<<<<< HEAD
-        "currentTab": 1
-=======
-        "currentTab": 2
->>>>>>> fcb349de833b194c375b5364611a934668079568
->>>>>>> b2eb3ef2905656011f534d56461da05603aaec06
->>>>>>> 02ebd2b50777a5821adaf432b7a81a44f1e0bd89
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "2b0cd26b82f881b2",
+    "id": "4de75d820d2cf991",
     "type": "split",
     "children": [
       {
-        "id": "d1c886c6e7547c0e",
+        "id": "4e58713233a1fc81",
         "type": "tabs",
         "children": [
           {
-            "id": "a5b0dd7a18bdbffd",
-=======
-    "id": "a79006e5254a211c",
-    "type": "split",
-    "children": [
-      {
-        "id": "a63b00c32d5b0cf8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "daca7bffcc95661e",
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
+            "id": "afe3f5037d9b3714",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -141,11 +104,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "addc9b7340edad17",
-=======
-            "id": "45771eb1f60e28de",
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
+            "id": "a9662a706733df99",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -160,14 +119,18 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "c0d348225bc289ce",
-=======
-            "id": "e43cb27ee1e5e7c3",
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
+            "id": "e0b0583456455563",
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1bbe6e6bdd6413b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -175,31 +138,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "6509292c0fd76da9",
+    "id": "6c92097f18ce1281",
     "type": "split",
     "children": [
       {
-        "id": "7f3fcb55908de3b1",
+        "id": "839969f61a6a321b",
         "type": "tabs",
         "children": [
           {
-            "id": "204b833fe4e8501b",
-=======
-    "id": "b3df791118da17df",
-    "type": "split",
-    "children": [
-      {
-        "id": "4b9bb1ebe883a3e8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6f638d563ab798a0",
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
+            "id": "8bdaa823d0595af1",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -207,16 +157,12 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "8fad138cc2e5de29",
-=======
-            "id": "841e2ee93bf585e8",
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
+            "id": "3576dd9f1434e55a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gitar笔记.md",
+                "file": "gitLearning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,27 +174,19 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "c6ca0a1fb208d4c7",
-=======
-            "id": "d36b3254844cf6f4",
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
+            "id": "d70c067348c42303",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gitar笔记.md",
+                "file": "gitLearning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "541333f90ad42d99",
-=======
-            "id": "9588322233db6f16",
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
+            "id": "a819160f52ba5e06",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -259,25 +197,17 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "0ec24d4dec2a33dc",
-=======
-            "id": "bc0308eb7578f149",
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
+            "id": "149899db848dd9b0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gitar笔记.md"
+                "file": "gitLearning.md"
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "5a4181397cf8a7c4",
-=======
-            "id": "8c5de7028a7e9247",
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
+            "id": "ef5d58e26d78671b",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -285,26 +215,10 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-=======
-    "width": 200,
-    "collapsed": true
-  },
-  "active": "298acf610e0a0875",
-  "lastOpenFiles": [
-    "无线通信.md",
-    "gitLearning.md",
-    "README.md",
-    "好词好句.md",
-    "量化学习笔记.md"
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
     "width": 300
   },
   "left-ribbon": {
@@ -318,27 +232,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e84e449f867e9c61",
+  "active": "1851a7a602aa02b8",
   "lastOpenFiles": [
-    "figure/Pasted image 20230407123013.png",
+    "DL笔记.md",
     "shell.md",
     "Gitar笔记.md",
-    "README.md",
-    "无线通信.pdf",
     "无线通信.md",
-    "pycharm.md",
-<<<<<<< HEAD
-    "A：to Do list.md",
+    "产品经理笔记.md",
+    "网络notes.md",
     "好词好句.md",
+    "A：to Do list.md",
     "学着摄像玩玩.md",
-    "DL笔记.md",
-    "Exploiting Semantic Communication for Non-Orthogonal Multiple Access.md",
-    "学术/1 附件/Pasted image 20221027100332.png.md"
-=======
-    "论文阅读笔记/channel coding/202_channel coding (LDPC) using DNN_A Review of Deep Learning in 5G Research：Channel Coding, Massive MIMO, Multiple Access, Resource Allocation, and Network Security.md"
->>>>>>> fcb349de833b194c375b5364611a934668079568
->>>>>>> b2eb3ef2905656011f534d56461da05603aaec06
->>>>>>> 02ebd2b50777a5821adaf432b7a81a44f1e0bd89
->>>>>>> 13ca9620a630e196eb81c81e9206ad7d11dcccfa
+    "现代编码理论.md",
+    "无线通信.pdf"
   ]
 }
