@@ -59,29 +59,19 @@
             "id": "1851a7a602aa02b8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "2e0b61a0d9e99d77",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "A：to Do list.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -180,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.canvas",
+                "file": "A：to Do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.canvas",
+                "file": "A：to Do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.canvas"
+                "file": "A：to Do list.md"
               }
             }
           },
@@ -252,15 +242,16 @@
   },
   "active": "2e0b61a0d9e99d77",
   "lastOpenFiles": [
+    "秋招.xlsx",
+    "DL笔记.md",
+    "gitLearning.md",
+    "shell.md",
     "未命名.canvas",
     "未命名 1.canvas",
-    "gitLearning.md",
     "gitar.md",
     "figure/Pasted image 20230406212515.png",
     "figure/Pasted image 20230406212451.png",
     "2023-04-06.md",
-    "DL笔记.md",
-    "shell.md",
     "Gitar笔记.md",
     "无线通信.md",
     "产品经理笔记.md",
