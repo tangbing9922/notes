@@ -10,6 +10,9 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
   "lookAndFeel": "classic",
-  "_collapsedSections": [],
+  "_collapsedSections": [
+    "面经.md",
+    "A：to Do list.md"
+  ],
   "_hiddenTags": []
 }
