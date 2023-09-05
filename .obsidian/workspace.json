@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面经.md",
+                "file": "简历专项准备.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面经.md",
+                "file": "简历专项准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面经.md",
+                "file": "简历专项准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面经.md"
+                "file": "简历专项准备.md"
               }
             }
           },
@@ -234,8 +234,11 @@
   },
   "active": "30bfc6f143b09a1f",
   "lastOpenFiles": [
-    "099A4060",
+    "面经.md",
+    "C++++++.md",
+    "好词好句.md",
     "简历专项准备.md",
+    "099A4060",
     "F8DA2B50",
     "30DA2B50",
     "~$秋招.xlsx",
@@ -245,15 +248,12 @@
     "64C02B50",
     "742E1B50",
     "A40E1B50",
-    "A3911B50",
     "figure/Pasted image 20230901162437.png",
     "figure/Pasted image 20230901161730.png",
     "figure/Pasted image 20230901161716.png",
     "figure/Pasted image 20230901154824.png",
-    "C++++++.md",
     "无线通信.md",
     "期刊论文 问题总结.md",
-    "面经.md",
     "figure/Pasted image 20230828103716.png",
     "figure/Pasted image 20230828103137.png",
     "gitLearning.md",
@@ -269,7 +269,6 @@
     "Gitar笔记.md",
     "产品经理笔记.md",
     "网络notes.md",
-    "好词好句.md",
     "学着摄像玩玩.md",
     "现代编码理论.md"
   ]
